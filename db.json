@@ -1,0 +1,162 @@
+{
+  "legends": [
+    {
+      "id": 1,
+      "name": "Wraith",
+      "role": "Skirmisher",
+      "home_world": "Typhon",
+      "difficulty": 4,
+      "tactical": "Into the Void",
+      "passive": "Voices from the Void",
+      "ultimate": "Dimensional Rift"
+    },
+    {
+      "id": 2,
+      "name": "Bloodhound",
+      "role": "Recon",
+      "home_world": "Talos",
+      "difficulty": 2,
+      "tactical": "Eye of the Allfather",
+      "passive": "Tracker",
+      "ultimate": "Beast of the Hunt"
+    },
+    {
+      "id": 3,
+      "name": "Gibraltar",
+      "role": "Defensive",
+      "home_world": "Solace",
+      "difficulty": 2,
+      "tactical": "Dome of Protection",
+      "passive": "Gun Shield",
+      "ultimate": "Defensive Bombardment"
+    },
+    {
+      "id": 4,
+      "name": "Lifeline",
+      "role": "Support",
+      "home_world": "Psamathe",
+      "difficulty": 1,
+      "tactical": "D.O.C. Heal Drone",
+      "passive": "Combat Revive",
+      "ultimate": "Care Package"
+    },
+    {
+      "id": 5,
+      "name": "Pathfinder",
+      "role": "Skirmisher",
+      "home_world": "Unknown",
+      "difficulty": 3,
+      "tactical": "Grappling Hook",
+      "passive": "Insider Knowledge",
+      "ultimate": "Zipline Gun"
+    },
+    {
+      "id": 6,
+      "name": "Bangalore",
+      "role": "Offensive",
+      "home_world": "Gridiron",
+      "difficulty": 2,
+      "tactical": "Smoke Launcher",
+      "passive": "Double Time",
+      "ultimate": "Rolling Thunder"
+    },
+    {
+      "id": 7,
+      "name": "Caustic",
+      "role": "Controller",
+      "home_world": "Gaea",
+      "difficulty": 3,
+      "tactical": "Nox Gas Trap",
+      "passive": "Nox Vision",
+      "ultimate": "Nox Gas Grenade"
+    },
+    {
+      "id": 8,
+      "name": "Mirage",
+      "role": "Offensive",
+      "home_world": "Solace",
+      "difficulty": 2,
+      "tactical": "Psyche Out",
+      "passive": "Now You See Me...",
+      "ultimate": "Life of the Party"
+    },
+    {
+      "id": 9,
+      "name": "Octane",
+      "role": "Skirmisher",
+      "home_world": "Psamathe",
+      "difficulty": 1,
+      "tactical": "Stim",
+      "passive": "Swift Mend",
+      "ultimate": "Launch Pad"
+    },
+    {
+      "id": 10,
+      "name": "Wattson",
+      "role": "Controller",
+      "home_world": "Solace",
+      "difficulty": 3,
+      "tactical": "Perimeter Security",
+      "passive": "Spark of Genius",
+      "ultimate": "Interception Pylon"
+    },
+    {
+      "id": 11,
+      "name": "Crypto",
+      "role": "Recon",
+      "home_world": "Gaea",
+      "difficulty": 4,
+      "tactical": "Surveillance Drone",
+      "passive": "Neurolink",
+      "ultimate": "Drone EMP"
+    },
+    {
+      "id": 12,
+      "name": "Revenant",
+      "role": "Offensive",
+      "home_world": "Solace",
+      "difficulty": 4,
+      "tactical": "Silence",
+      "passive": "Stalker",
+      "ultimate": "Death Totem"
+    }
+  ],
+  "roles": [
+    {
+      "id": 1,
+      "name": "Offensive",
+      "description": "Legends gericht op agressieve gevechten en damage output.",
+      "team_benefit": "Zorgt voor druk op vijanden en opening van gevechten."
+    },
+    {
+      "id": 2,
+      "name": "Defensive",
+      "description": "Legends die sterk zijn in het verdedigen van posities.",
+      "team_benefit": "Bescherming bieden en sterke posities vasthouden."
+    },
+    {
+      "id": 3,
+      "name": "Support",
+      "description": "Legends die het team genezen of loot ondersteunen.",
+      "team_benefit": "Helpt teamgenoten in leven te blijven en beter uitgerust te zijn."
+    },
+    {
+      "id": 4,
+      "name": "Recon",
+      "description": "Legends die informatie verzamelen en vijanden spotten.",
+      "team_benefit": "Beter overzicht van vijandelijke posities en rotaties."
+    },
+    {
+      "id": 5,
+      "name": "Skirmisher",
+      "description": "Mobiele legends die snel kunnen in- en disengagen.",
+      "team_benefit": "Zorgt voor flanks, snelle rotaties en het testen van vijandelijke posities."
+    },
+    {
+      "id": 6,
+      "name": "Controller",
+      "description": "Legends die zones controleren en gebiedscontrole hebben.",
+      "team_benefit": "Afsluiten van routes en forceren van vijandelijke bewegingen."
+    }
+  ]
+}
