@@ -80,6 +80,6 @@
     { "id": 2, "name": "Recon",      "description": "Legends die informatie verzamelen en vijanden spotten.",                    "team_benefit": "Beter overzicht van vijandelijke posities en rotaties." },
     { "id": 3, "name": "Support",    "description": "Legends die het team genezen of loot ondersteunen.",                       "team_benefit": "Helpt teamgenoten in leven te blijven en beter uitgerust te zijn." },
     { "id": 4, "name": "Controller", "description": "Legends die zones controleren en gebiedscontrole bieden.",                 "team_benefit": "Afsluiten van routes en forceren van vijandelijke bewegingen." }
-    { "id": 5, "name": "Assault", "description": "Agressieve legends gericht op damage en het pushen van vijanden.",             "team_benefit": "Zorgt voor druk op vijanden en het openen van gevechten." }
+    { "id": 5, "name": "Assault", "description": "Agressieve legends gericht op damage en het pushen van vijanden.", "team_benefit": "Zorgt voor druk op vijanden en het openen van gevechten." }
   ]
 }
