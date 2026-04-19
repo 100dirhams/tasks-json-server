@@ -101,3 +101,66 @@
       "team_benefit": "Zorgt voor druk op vijanden en het openen van gevechten." }
   ]
 }
+
+"maps": [
+    {
+      "id": 1,
+      "name": "Kings Canyon",
+      "type": "Battle Royale",
+      "released": "Season 0",
+      "year": 2019,
+      "size": "Medium",
+      "description": "De originele map van Apex Legends. Een woestijnachtig gebied met rotsen, bunkers en een centraal arena.",
+      "image": "/static/images/maps/kingscanyon.jpg"
+    },
+    {
+      "id": 2,
+      "name": "World's Edge",
+      "type": "Battle Royale",
+      "released": "Season 3",
+      "year": 2019,
+      "size": "Large",
+      "description": "Een industriële map met lavagebieden, treinsporen en hoge torens verspreid over het landschap.",
+      "image": "/static/images/maps/worldsedge.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Olympus",
+      "type": "Battle Royale",
+      "released": "Season 7",
+      "year": 2020,
+      "size": "Large",
+      "description": "Een zwevende stad in de wolken met open gebieden, weelderige tuinen en futuristische gebouwen.",
+      "image": "/static/images/maps/olympus.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Storm Point",
+      "type": "Battle Royale",
+      "released": "Season 11",
+      "year": 2021,
+      "size": "Extra Large",
+      "description": "Een tropisch eiland met gevaarlijke fauna, hoge kliffen en een stormachtige omgeving.",
+      "image": "/static/images/maps/stormpoint.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Broken Moon",
+      "type": "Battle Royale",
+      "released": "Season 15",
+      "year": 2022,
+      "size": "Extra Large",
+      "description": "Een beschadigde maan met futuristische steden, ziplines en een uniek terraforming systeem.",
+      "image": "/static/images/maps/brokenmoon.jpg"
+    },
+    {
+      "id": 6,
+      "name": "E-District",
+      "type": "Battle Royale",
+      "released": "Season 22",
+      "year": 2024,
+      "size": "Medium",
+      "description": "Een neon-verlichte cyberpunk stad met nauwe steegjes, hoge gebouwen en drukke markten.",
+      "image": "/static/images/maps/edistrict.jpg"
+    }
+  ]
