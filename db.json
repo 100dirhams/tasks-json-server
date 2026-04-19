@@ -6,7 +6,7 @@
         "difficulty": "Hard",  
         "tactical": "Into the Void", 
         "ultimate": "Dimensional Rift",  
-        "image": "/static/images/wraith.png" },
+        "image": "/static/images/wraith.jpg" },
     { "id": 2, "name": "Bloodhound","role": "Recon",       "home_world": "Talos",    "difficulty": "Easy",   "tactical": "Eye of the Allfather",  "ultimate": "Beast of the Hunt",      "image": "https://static.wikia.nocookie.net/apexlegends_gamepedia_en/images/7/72/Legend_Bloodhound.png" },
     { "id": 3, "name": "Gibraltar", "role": "Support",     "home_world": "Solace",   "difficulty": "Easy",   "tactical": "Dome of Protection",    "ultimate": "Defensive Bombardment",  "image": "https://static.wikia.nocookie.net/apexlegends_gamepedia_en/images/0/0e/Legend_Gibraltar.png" },
     { "id": 4, "name": "Lifeline",  "role": "Support",     "home_world": "Psamathe", "difficulty": "Easy",   "tactical": "D.O.C. Heal Drone",     "ultimate": "Care Package",           "image": "https://static.wikia.nocookie.net/apexlegends_gamepedia_en/images/9/9e/Legend_Lifeline.png" },
