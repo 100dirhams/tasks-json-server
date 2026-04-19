@@ -45,7 +45,7 @@
       "ultimate": "Phase Breach",
       "image": "/static/images/Ash.jpg" },
     { "id": 8, "name": "Mirage", 
-      "role": "Skirmisher", 
+      "role": "Support", 
       "home_world": "Solace",  
       "difficulty": "Medium", 
       "tactical": "Psyche Out",  
