@@ -99,10 +99,8 @@
     
     { "id": 5, "name": "Assault", "description": "Agressieve legends gericht op damage en het pushen van vijanden.",
       "team_benefit": "Zorgt voor druk op vijanden en het openen van gevechten." }
-  ]
-}
-
-"maps": [
+  ],
+  "maps": [
     {
       "id": 1,
       "name": "Kings Canyon",
@@ -164,3 +162,4 @@
       "image": "/static/images/maps/edistrict.jpg"
     }
   ]
+}
